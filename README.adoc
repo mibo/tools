@@ -1,0 +1,10 @@
+= Tools
+Tools - Links and description to tools I often use (or tools which I will give a try)
+
+== Tools in use
+
+  * link:https://github.com/ggreer/the_silver_searcher[Shell search tool]
+
+== Tools to test / check /..
+
+  * link:https://github.com/sampson-chen/sack[Sack: Improving search experience with `ag`/`ack`]
