@@ -4,6 +4,70 @@ Tools - Links and description to tools I often use (or tools which I will give a
 == Tools in use
 
   * link:https://github.com/ggreer/the_silver_searcher[Shell search tool]
+  
+=== Tools installed via `homebrew`
+
+.Current (180812) list via `brew ls -1`
+  * `ack`
+  * `archey`
+  * `asciidoc`
+  * `autoconf`
+  * `docbook`
+  * `docker-completion`
+  * `exiftool`
+  * `fontconfig`
+  * `freetype`
+  * `gd`
+  * `gdbm`
+  * `gettext`
+  * `git`
+  * `gradle`
+  * `graphviz`
+  * `htop`
+  * `htop-osx`
+  * `httpie`
+  * `icdiff`
+  * `icu4c`
+  * `jpeg`
+  * `lftp`
+  * `libidn`
+  * `libidn2`
+  * `libpng`
+  * `libtiff`
+  * `libtool`
+  * `libunistring`
+  * `libxml2`
+  * `libxslt`
+  * `libyaml`
+  * `mas`
+  * `maven`
+  * `nmap`
+  * `openssl`
+  * `openssl@1.1`
+  * `p7zip`
+  * `pcre`
+  * `pkg-config`
+  * `platypus`
+  * `python`
+  * `python3`
+  * `python@2`
+  * `readline`
+  * `ruby`
+  * `sbt`
+  * `scala`
+  * `shellcheck`
+  * `sqlite`
+  * `tag`
+  * `the_silver_searcher`
+  * `tree`
+  * `typesafe-activator`
+  * `watch`
+  * `webp`
+  * `wget`
+  * `xz`
+  * `youtube-dl`
+  * `z`
+  * `zsh`
 
 == Tools to test / check /..
 
