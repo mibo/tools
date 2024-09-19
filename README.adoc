@@ -4,6 +4,7 @@ Tools - Links and description to tools I often use (or tools which I will give a
 == Tools in use
 
   * link:https://github.com/ggreer/the_silver_searcher[Shell search tool]
+  * link:https://github.com/mundimark/awesome-markdown-editors
   
 === Tools installed via `homebrew`
 
