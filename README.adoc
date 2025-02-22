@@ -5,7 +5,9 @@ Tools - Links and description to tools I often use (or tools which I will give a
 
   * link:https://github.com/ggreer/the_silver_searcher[Shell search tool]
   * link:https://github.com/mundimark/awesome-markdown-editors[Markdown editors (list in GH)]
-  
+  * link:https://github.com/SAP/power-monitoring-tool-for-macos/releases/tag/1.2.3[Power Monitor (SAP)]
+  * link:https://github.com/SAP/macOS-enterprise-privileges[Privileges (SAP)]
+
 === Tools installed via `homebrew`
 
 .Current (180812) list via `brew ls -1`
